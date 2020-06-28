@@ -130,7 +130,7 @@ var data = [
       type: "indicator",
       mode: "gauge+number+delta",
       value: bellyWfreq,
-      title: { text: "Speed", font: { size: 24 } },
+      title: { text: "Belly Button Washing Frequency", font: { size: 24 } },
       delta: { reference: 400, increasing: { color: "RebeccaPurple" } },
       gauge: {
         axis: { range: [null, 500], tickwidth: 1, tickcolor: "darkblue" },
